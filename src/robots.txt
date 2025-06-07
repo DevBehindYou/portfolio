@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devbehindyou.netlify.app/sitemap.xml
